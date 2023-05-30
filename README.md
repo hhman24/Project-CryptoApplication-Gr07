@@ -10,7 +10,6 @@ We use:
 ## 🤝 Member
 |Name             |ID       |
 |:---------------:|:-------:|
-<<<<<<< HEAD
 |Nguyen Nhat Quan | 20127066|
 |Hoang Huu Minh An| 20127102|
 |Tran Anh Huy     | 20127192|
